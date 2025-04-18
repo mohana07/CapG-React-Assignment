@@ -1,0 +1,9 @@
+{
+	"name": "batch1mohana",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e50b1ba-cd1b-4a73-b3a4-273fc46238d3",
+		"tenantId": "505b10b5-d8e6-4654-8f5c-fa28395dffb0"
+	}
+}
